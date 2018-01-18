@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\compaq\AndroidStudioProjects\MultiKLC\app\libs\javaluator-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2858833d5416801d8df6928ef4a9c9acb5e289e3">
+        <dex dex="C:\Users\compaq\AndroidStudioProjects\MultiKLC\app\build\intermediates\pre-dexed\debug\javaluator-3.0.1_85aaa226847b9d4224756b3271886f2a5c507651.jar" />
+    </item>
+
+</items>
